@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Todo: Make a theme for the app-->
+<resources>
+    <color name="purple">#8000ff</color>
+    <color name="purple_darker">#422680</color>
+    <color name="yellow">#f9a239</color>
+    <color name="yellow_darker">#ED8607</color>
+    <color name="black">#000000</color>
+    <color name="light_grey">#A9B4C2</color>
+    <color name="dark_grey">#242526</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="view_line">#F7F7F9</color>
+    <color name="colorAccent">#565554</color>
+    <color name="colorPrimaryDark">	#5A5A5A</color>
+</resources>

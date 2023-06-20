@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Shows Reject when swipe is to the left-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:gravity="right"
+    android:layout_height="425dp"
+    tools:ignore="RtlHardcoded">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:layout_margin="40dp"
+        android:textColor="@android:color/holo_red_light"
+        android:text="Reject"
+        tools:ignore="HardcodedText" />
+</LinearLayout>
